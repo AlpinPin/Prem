@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 #-*-coding:utf-8-*-
-# Made With ❤️ By WansGansXpL
+# Made With ❤️ By AlpinXTodd
+#Thanks For Dapunta,WansGans,Yayan,Risky
 
 import requests,mechanize,bs4,sys,os,subprocess,uuid,random,time,re,base64,concurrent.futures,json
 from random import randint
@@ -36,9 +37,9 @@ def banner():
     print("""\x1b[1;93m___
  \x1b[1;93m / _ \_______             ®
 \x1b[1;93m / ___/ __/ -_) Multi Brute1.1\x1b[1;96m ║Sc By WansGansXpL
-/_/  /_/__\__/(_) Force 1.1\x1b[1;96m║FB : Facebook.com/sayaalpin
+/_/  /_/__\__/(_) Force 1.1   \x1b[1;96m║FB : Facebook.com/sayaalpin
        /  ^ \/ / // /  ^ \   \x1b[1;96m ║Coded By AlpinXTodd
-      /_/_/_/_/\_,_/_/_/_/ \x1b[1;96m║Github :https://github.com/ALPIN-XD""")
+      /_/_/_/_/\_,_/_/_/_/    \x1b[1;96m║Github :https://github.com/ALPIN-XD""")
 
 host="https://mbasic.facebook.com"
 ips=None
