@@ -36,7 +36,7 @@ else:
 def banner():
     print("""\x1b[1;93m___
  \x1b[1;93m / _ \_______             ®
-\x1b[1;93m / ___/ __/ -_) Multi Brute1.1\x1b[1;96m ║Sc By WansGansXpL
+\x1b[1;93m / ___/ __/ -_) Multi Brute\x1b[1;96m ║Sc By WansGansXpL
 /_/  /_/__\__/(_) Force 1.1   \x1b[1;96m║FB : Facebook.com/sayaalpin
        /  ^ \/ / // /  ^ \   \x1b[1;96m ║Coded By AlpinXTodd
       /_/_/_/_/\_,_/_/_/_/    \x1b[1;96m║Github :https://github.com/ALPIN-XD""")
