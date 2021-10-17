@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8
 # Coding by ❤️ AlpinPin ❤️
+# Recode Izin Dulu Ngabb
 # WhatsAp me +6283119356487
 fb = '570025450621946'
 import os,sys,time,datetime,random,hashlib,re,threading,json,cookielib,requests,uuid,itertools,subprocess
