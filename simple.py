@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8
-# Coding by ❤️ Romi Afrizal ❤️
-# WhatsAp me +6282371648186
+# Coding by ❤️ AlpinPin ❤️
+# WhatsAp me +6283119356487
 fb = '570025450621946'
 import os,sys,time,datetime,random,hashlib,re,threading,json,cookielib,requests,uuid,itertools,subprocess
 from multiprocessing.pool import ThreadPool
